@@ -19,6 +19,6 @@ print(f"He has {eyes} eyes and {hair} hair.")
 print(f"Their teeth are {teeth}")
 print(f"He loves {addictions}, and can't live without it.")
 
-# this line is tricky, try to get it exactly right
+# the numbers
 total = age + height + weight
 print(f"If I add {age}, {height}, and {weight} I get {total}.")
