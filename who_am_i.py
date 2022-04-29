@@ -1,6 +1,6 @@
 name = 'Alexander Graden'
 age = 21 
-height = 67 # inches
+height = 69 # inches
 height_in_centimeters = height * 2.54
 weight = 145 # lbs
 weight_in_kilograms = weight / 2.205
