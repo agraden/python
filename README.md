@@ -1,7 +1,5 @@
 # python
 
-This is my first repository on GitHub for Python3.
+This is my first repository on GitHub.
 
-You will find my random tests and practice files here.
-
-Enjoy!
+You will find my random Python scripts here.
