@@ -5,6 +5,7 @@ while True:
     file = input('\n Enter file path: ')
     if not os.path.exists(file):
         print('File not found')
+        exit()
 
     with open(file, 'rb') as f:
         h = hashlib.sha256(f.read()).hexdigest()
